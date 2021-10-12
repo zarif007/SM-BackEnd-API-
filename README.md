@@ -14,7 +14,7 @@ On CMD ->
         1. cd /vagrant 
         2. python -m venv ~/env (creating env file to vagrant 
                                 home directory, so, that if we
-                                delete thi vagrant file, we can 
+                                delete this vagrant file, we can 
                                 start with a new V.environment)
         3. source ~/env/bin/activate
 ```
