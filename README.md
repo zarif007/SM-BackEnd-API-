@@ -6,3 +6,16 @@ On CMD ->
         2. vagrant up (Run a new VM)
         3. vagrant ssh (Connecting to VM)
 ```
+
+### Virtual Environment
+```
+Create a Local Environment(not System wide) 
+Specific to this Project
+On CMD ->
+        1. cd /vagrant 
+        2. python -m venv ~/env (creating env file to vagrant 
+                                home directory, so, that if we
+                                delete thi vagrant file, we can 
+                                start with a new V.environment)
+        3. source ~/env/bin/activate
+```
