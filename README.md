@@ -1,5 +1,5 @@
+###Vagrant
 ```
------Vagrant------
 Creating an isoloated development server
 On CMD ->
         1. vagrant init ubuntu/bionic64 (type of server)
