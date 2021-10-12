@@ -1,4 +1,4 @@
-###Vagrant
+### Vagrant
 ```
 Creating an isoloated development server
 On CMD ->
