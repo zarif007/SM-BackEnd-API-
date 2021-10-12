@@ -1,6 +1,6 @@
 ### Vagrant
 ```
-Creating an isoloated development server
+For creating an isoloated development server
 On CMD ->
         1. vagrant init ubuntu/bionic64 (type of server)
         2. vagrant up (Run a new VM)
@@ -9,8 +9,7 @@ On CMD ->
 
 ### Virtual Environment
 ```
-Create a Local Environment(not System wide) 
-Specific to this Project
+For creating a Local Environment(not System wide) specific to this Project
 On CMD ->
         1. cd /vagrant 
         2. python -m venv ~/env (creating env file to vagrant 
